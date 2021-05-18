@@ -1,6 +1,6 @@
-title: notenote.link-kabir
-name: My linked notebook
-user_description: notenote.link-kabir
+title: The Econosophist
+name: Kabir Singh Chugh
+user_description: Notes from the Underground Digital garden
 notes_url: "https://notelink-kabir.netlify.app"
 profile_pic: /assets/img/profile.png
 favicon: /assets/img/favicon.png
@@ -12,7 +12,7 @@ encoding: utf-8
 # Build settings
 theme: null
 plugins:
-  - jekyll-feed 
+  - jekyll-feed
   - jekyll-sitemap
   - jekyll-toc
 
@@ -20,7 +20,7 @@ markdown: kramdown
 
 kramdown:
   input: GFM
-  hard_wrap: false
+  hard_wrap: true
   math_engine: mathjax
   smart_quotes: ["apos", "apos", "quot", "quot"]
   syntax_highlighter: rouge
