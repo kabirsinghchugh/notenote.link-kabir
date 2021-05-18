@@ -5,20 +5,19 @@ tags: Theme
 toc: true
 comments: true
 ---
+The main purpose of this fork, other than cosmetic changes, is to create a web representation of an [[Obsidian::https://obsidian.md]] vault, using the [[Simply-Jekyll::https://github.com/raghuveerdotnet/simply-jekyll]] template.
 
-## The default features
+## Test Run
 
-All the default jekyll markdown features are made available such that they don't cause any conflict with the custom features that we have implemented. 
 
-Internal links (simple and with alt-text) and LateX delimiters in markdown are compatible with [[Obsidian::https://obsidian.md]]. I'd recommend using it as a CMS for managing your notes. See the page about [[Obsidian integration]] for more details.
+Internal links (simple and with alt-text) and LateX delimiters in markdown are compatible with [[Obsidian::https://obsidian.md]].
 
-To see how to the raw markdown gets generated, go to the [[Test page to see how the raw markdown is rendered]]
 
 ## The Custom features
 
 ### 1. Creating a wiki-style link
 
-**<u>General Syntax</u>**
+**<u>Underlining</u>**
 
 - **Internal links:** **[​[**​Some Link**]]**
 
@@ -26,28 +25,11 @@ To see how to the raw markdown gets generated, go to the [[Test page to see how 
 
 - **External links:** **[​[​**Some Text::https://address-to-the-website**]]**
 
-Anything text inside a double square bracket is considered as an internal link. The text has to be a valid title, if you provide a random text inside double square brackets, it will showup highlighted in yellow telling you that there is no essay/article/file with the mentioned title.
 
-Similarly, for external links all you have to do is add a double colon after the "Alt text" and enter the link to the website after the double colon as seen below.
+==Similarly, for external links all you have to do is add a double colon after the "Alt text" and enter the link to the website after the double colon as seen below.==
 
-**Examples**
-
-Example of an internal link that points to a valid post or page, that is, a page with the title (not url) mentioned in the double brackets.
-
-> **Raw Syntax:** **[​[**​Obsidian integration**]]**
->
-> **Rendered Text:** [[Obsidian integration]]
-
-
-Example of an internal link that do not point to a valid post or page, that is, a page with the title (not url) mentioned in the double brackets.
-
-> **Raw Syntax:** **[​[**Title of a non-existent page**]]**
-> 
-> **Rendered Text:** [[Title of a non-existent page]]
 
 ### 2. Creating a sidenote or a marginnote
-
-**<u>General Syntax</u>**
 
 - **Sidenote:** **[​[**Some Text**::keyword-of-the-type-of-the-sidenote]]**
 

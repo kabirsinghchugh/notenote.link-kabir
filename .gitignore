@@ -4,4 +4,6 @@ _site
 .jekyll-metadata
 vendor
 .idea
+.obsidian
+.trash
 .DS_Store

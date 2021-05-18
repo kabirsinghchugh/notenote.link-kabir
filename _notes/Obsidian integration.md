@@ -4,21 +4,7 @@ season: summer
 tags: CMS
 ---
 
-The main purpose of this fork, other than cosmetic changes, is to create a web representation of an [[Obsidian::https://obsidian.md]] vault, using the [[Simply-Jekyll::https://github.com/raghuveerdotnet/simply-jekyll]] template.
-
-## Usage
-
-Things to know :
-
-- Markdown is fully-compatible (including Latex delimiters !)
-
 - There are now only notes (no blog posts). If you really want blog posts along notes, a hack is to set the YAML season of blog posts to `summer` and notes to `automn` - they won't appear in feed but will be searchable and appear in tags page.
-
-- Code is now correctly indented
-
-- You can change the code template by replacing the css in `/assets/css/highlight.css` by any template from [[pygment.css::https://github.com/richleland/pygments-css]]
-
-- Wikilinks are usable : **[​[**​...**]]**,
 
 - Also alt-text wikilinks (with transclusion !) : **[​[**​original link\\|alternative text**]]**
 
