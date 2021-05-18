@@ -1,11 +1,10 @@
 ---
-title: How to use notenote.link features on your website
+title:Tutorial
 season: summer
 tags: Theme
 toc: true
 comments: true
 ---
-The main purpose of this fork, other than cosmetic changes, is to create a web representation of an [[Obsidian::https://obsidian.md]] vault, using the [[Simply-Jekyll::https://github.com/raghuveerdotnet/simply-jekyll]] template.
 
 ## Test Run
 

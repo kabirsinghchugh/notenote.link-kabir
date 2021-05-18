@@ -1,5 +1,5 @@
 ---
-title: How to setup this site
+title: Kabir Chugh Test Run
 tags: Theme
 season : summer
 ---
