@@ -6,4 +6,4 @@ content-type: eg
 ---
 
 
-I am [[Kabir Chugh::https://www.kabirchugh.xyz\|Kabir Chugh]] and this is my digital garden in progress!
+I am[Kabir Chugh](https://www.kabirchugh.xyz) and this is my digital garden in progress!
