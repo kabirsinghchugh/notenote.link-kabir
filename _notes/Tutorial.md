@@ -1,5 +1,5 @@
 ---
-title:Tutorial
+title: Tutorial
 season: summer
 tags: Theme
 toc: true
