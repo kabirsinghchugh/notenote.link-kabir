@@ -54,19 +54,6 @@ Example of a sidenote to the right side of the page:
 
 Same goes with `lsn`, `rmn`, `lmn`
 
-### 3. Highlighting a piece of text
-
-**<u>General Syntax</u>**
-
-- **[​[**​Some Link**::highlight]]**
-
-There is only one color right now in which it highlights, a light bluish color, but you can easily extend it to support multiple colors by tinkering with it in `content.html` file in `_includes` directory.
-
-**Examples**
-
-> **Raw Syntax:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum tortor in pharetra vehicula. Fusce gravida lacus ac sem luctus congue at id justo. Ut sed tempus ante. **[​[**Phasellus mollis lectus id efficitur mollis.**::highlight]]** Suspendisse sit amet diam nec justo rhoncus tristique. Ut blandit faucibus nisi vitae rutrum. Vivamus fermentum efficitur justo non facilisis.
->
-> **Rendered Text:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum tortor in pharetra vehicula. Fusce gravida lacus ac sem luctus congue at id justo. Ut sed tempus ante. [[Phasellus mollis lectus id efficitur mollis.::highlight]] Suspendisse sit amet diam nec justo rhoncus tristique. Ut blandit faucibus nisi vitae rutrum. Vivamus fermentum efficitur justo non facilisis.
 
 ### 4. Partial Transclusion
 
@@ -122,61 +109,6 @@ Same goes with `rsn`, `lsn`, `lmn`
 >
 > **Rendered Text:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. [[Donec rutrum tortor in pharetra vehicula::srs]]. Fusce gravida lacus ac sem luctus congue at id justo. Ut sed tempus ante. Suspendisse sit amet diam nec justo rhoncus tristique. Ut blandit faucibus nisi vitae rutrum. Vivamus fermentum efficitur justo non facilisis.
 
-### 7. Specific classes for changing font-type, font-size, and font-weight
-
-There are classes like very-small, medium-small, small, small-medium, medium, medium-large, large, very-large; that can be used to change the size of your text directly from markdown like this:
-
-> **Raw Syntax:**
-> {:.regular-sans}
-> ```
-> {:.large}
-> Some text here that needs to be enlarged
-> ```
->
-> **Rendered Text:**
-> 
-> {:.large}
-> Some text here that needs to be enlarged
 
 
-Similarly there are classes like regular-sans, serif, bold, italic, oblique, bolder, etc for formatting the text.
 
-> **Raw Syntax:**
-> 
-> ```
-> {:.medium .serif .oblique}
-> Some text here that needs to be enlarged
-> ```
->
-> **Rendered Text:**
-> 
-> {:.medium .serif .oblique}
-> Some text here that needs to be enlarged
-
-Other common classes are .boxit that is used to wrap the text, .disable-user-select to disallow users from being able to select a particular piece of text by selecting it, etc. There are more classes like these which you can see in the file `style.css`. Once you figure out which class to use, all you have to do is just add the class before the text you want inside a curl brace like this ​{:\<classnames-with-dot-prepended-to-them>​}
-
-### 8. Table of Content
-
-notenote.link supports automatic table of content (toc) generation. Just add a `toc: true` line in the front matter at the beginning of your post.
-
-You can modify the maximum header level included in the toc by changing number in the following option in `config.yml` :
-```
-toc:
-  max_level: 3
-```
-
-### 9. Note maturity
-Since this jekyll theme aims at mirroring your Obsidian notebook, the note content may note be mature or complete yet.
-
-Therefore, we use front matter to classify the notes in the following categories (in order of appearance in the front page feed) : 
-
-- `season: summer` : the note is near-complete (more than 80% done)
-- `season: spring` : the note is in progress and has already good content
-- `season: winter` : the note has just started, a summary is present however.
-- `season: automn` : the note needs refactoring or some rewriting. It won't appear in the front-page feed.
-
-Why use seasons ? Since this theme is a form of 'digital garden', I thought it would make sense to keep the analogy.
-
-### 10. Other implicit features.
-
-Features like backlinks, context menu, related posts, page preview are available by default as they are implemented using CSS and JS. So, you don't have to do anything other than write as you would normally to make use of those features.

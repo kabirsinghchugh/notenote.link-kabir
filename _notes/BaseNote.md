@@ -1,7 +1,7 @@
 ---
 title: Template
-tags: Meta
-layout: post
+tags: TODOs
+season: summer
 ---
 
 ==Check out Jekyll Documentation for finer points==

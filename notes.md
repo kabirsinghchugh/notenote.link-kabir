@@ -1,5 +1,9 @@
 ---
+title: Note Index
 layout: post
-permalink: /notes
+permalink: /notes/
+content-type: eg
 ---
 
+
+	
