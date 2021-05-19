@@ -12,10 +12,7 @@ comments: true
 Internal links (simple and with alt-text) and LateX delimiters in markdown are compatible with [[Obsidian::https://obsidian.md]].
 
 
-
-
-
-### 6. Flashcard
+### Flashcard
 
 **<u>General Syntax</u>**
 
