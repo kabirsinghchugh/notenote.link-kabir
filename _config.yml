@@ -1,12 +1,12 @@
 title: The Econosophist
 name: Kabir Singh Chugh
-user_description: Notes from the Underground-Digital-Garden
-notes_url: "https://kabirsinghchugh.netlify.app"
+user_description: "Economist? Philosopher? or a Sophist? Why not all three!
+notes_url: "https://kabirsinghchugh.xyz"
 profile_pic: /assets/img/profile.png
 favicon: /assets/img/favicon.png
-copyright_name: MIT
+copyright_name: "©KabirChugh"
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://kabirsinghchugh.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.kabirsinghchugh.xyz/" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
