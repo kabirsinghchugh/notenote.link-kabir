@@ -1,37 +1,33 @@
-Why Emerson is Much Too Smart to be a Philosopher  Issue 60
-
 ---
-created: 2021-04-22T18:50:50 (UTC +05:30)
-tags: [philosophy]
-source: https://philosophynow.org/issues/60/Why_Emerson_is_Much_Too_Smart_to_be_a_Philosopher
-author: 
+title: Emerson as a Philosopher
+tags: philosophy
+season: summer
+toc: true
+comments: true
 ---
 
-# Why Emerson is Much Too Smart to be a Philosopher | Issue 60 | Philosophy Now
+[​[Emerson - Philosopher or Poet?::wrap]]
+ 
+ ---
 
-> ## Excerpt
-> Nancy Bunge considers Emerson as a philosopher, to show that he is a poet.
+**Ralph Waldo Emerson** (1803-1882)  
+- Early admirers - Walt Whitman, and Henry David Thoreau.
+- Emerson as a philosopher short circuits his aims to awaken his readers from intellectual, emotional and spiritual torpor.
+- Emerson declares philosophy inferior to literature: 
 
----
-![welcome covers](../_resources/c6325f84abb54d4881b03d92b5ec3682.png)
+[​[“I think that philosophy is still rude and elementary. It will one day be taught by poets. The poet is in the natural attitude; he is believing; the philosopher, after some struggle, having only reasons for believing.” (*Complete Works* XII p14) Emerson prefers inspiration to analysis: “The poet sees wholes and avoids analysis; the metaphysician, dealing… with the mathematics of the mind, puts himself out of the way of inspiration; loses that which is the miracle and creates the worship.”::wrap]]
 
-Your complimentary articles
 
-You’ve read **three** of your four complimentary articles for this month.
+ While philosophy trades in ideas which language can capture,  
+ 
+ [​[​Emerson attempts to express something beyond concepts and words; so he calls language “fossil poetry”::highlight]] (*Collected Works* III p13), 
+ 
+ -  Emerson considers poetry's essential task – *ascension*
+   
 
-You can read four articles free per month. To have complete access to the thousands of philosophy articles on this site, please
+[​[The passage of the soul into higher forms::lmn-transclude]]
 
-##### Literature
-
-### **Nancy Bunge** considers Emerson as a philosopher, to show that he is a poet.
-
-Ralph Waldo Emerson (1803-1882) not only made influential arguments for a distinctively American literature, his early admirers and students include Walt Whitman, generally considered America’s best poet, and Henry David Thoreau, who established American environmental literature with *Walden*. As a result, Emerson’s influence pervades American literature to this day. Emerson’s love of grand statement may invite some to see him as a philosopher, but this approach seriously short circuits his aims. Emerson and his disciples strove to awaken their readers from intellectual, emotional and spiritual torpor. Reducing his literary essays to tortured conceptual statements, such as Stanley Cavell produces, does Emerson no service, and interferes with achievement of this primary goal.
-
-## Emerson vs Cavell
-
-Stanley Cavell taught philosophy for over thirty years at Harvard University, where he is now the Walter M. Cabot Professor Emeritus of Aesthetics and the General Theory of Value. He received a MacArthur Fellowship (commonly called a ‘genius grant’) and served as president of the American Philosophical Association. He has published over twenty books. Cavell has also won admiration for his analyses of Thoreau and Shakespeare. With this impressive lineage, Cavell stands poised to shape not only future studies of Emerson, but also all philosophic analyses of literature. But although Stanley Cavell frequently declares Emerson a philosopher, Emerson’s writings give no sign that he aspires to this label. Cavell attributes this lapse to Emerson’s insecurity about his reasoning powers, but Emerson declares philosophy inferior to literature: “I think that philosophy is still rude and elementary. It will one day be taught by poets. The poet is in the natural attitude; he is believing; the philosopher, after some struggle, having only reasons for believing.” (*Complete Works* XII p14) Emerson prefers inspiration to analysis: “The poet sees wholes and avoids analysis; the metaphysician, dealing… with the mathematics of the mind, puts himself out of the way of inspiration; loses that which is the miracle and creates the worship.”
-
-The attitude towards philosophy which Emerson expresses in these passages complements his literary goals. While philosophy trades in ideas which language can capture, Emerson attempts to express something beyond concepts and words; so he calls language “fossil poetry” (*Collected Works* III p13), the archaic remnants of art that has ceased to move people. The poet, on the other hand, produces literature that will help nature achieve what Emerson considers its essential task: “*ascension*, or, the passage of the soul into higher forms” (p14). Cavell complains about those who call Emerson’s work foggy, but Emerson sees fogginess as a necessary by-product of attempting to convey the ineffable: “The aim of the author is not to tell the truth – that he cannot do, but to suggest it. He has only approximated it himself, & hence his cumbrous embarrassed speech: he uses many words, hoping that one, if not another, will bring you as near to the fact as he is.” Because of language’s limits, Emerson explains, “There are many things that refuse to be recorded – perhaps the larger half. The unsaid part is the best of every discourse.” (*Journals* V p51)
+Emerson sees fogginess as a necessary by-product of attempting to convey the ineffable: “The aim of the author is not to tell the truth – that he cannot do, but to suggest it. He has only approximated it himself, & hence his cumbrous embarrassed speech: he uses many words, hoping that one, if not another, will bring you as near to the fact as he is.” Because of language’s limits, Emerson explains, “There are many things that refuse to be recorded – perhaps the larger half. The unsaid part is the best of every discourse.” (*Journals* V p51)
 
 Cavell seems to concede that Emerson does not produce traditional philosophy, with its emphasis on logic and objectivity, when he links Emerson to Wittgenstein through their shared respect for ordinary language. Unfortunately for Cavell’s theory, although Emerson does embrace concrete experiences and words, and urges all artists to do the same, unlike Wittgenstein he wants to transform commonplace objects and language into symbols of a higher reality. Emerson explains that, “The test of the poet is the power to take the passing day, with its news, its cares, its fears, as he shares them, and hold it up to a divine reason, till he sees it to have a purpose and a beauty, and to be related to astronomy and history and the eternal order of the world.” (*Collected Works* VIII p35)
 
@@ -79,13 +75,3 @@ Tillich sets out the patterns of a religious experience which alleviates despair
 
 Tillich’s approach seems far preferable to Cavell’s. Unlike Cavell, Tillich feels comfortable acknowledging the value of work which takes a different approach than his own. To deal with a complicated world, human beings need not only a variety of perspectives and experiences, but also the capacity to understand them both intellectually and emotionally. So, it seems wise to avoid reducing philosophy to literature or *vice versa* and instead welcome the different kinds of knowledge these distinct angles of vision offer.
 
-© Nancy Bunge 2007
-
-*Nancy Bunge is often Professor of Writing, Rhetoric and American Cultures at Michegan State University, although she is currently a senior Fulbright lecturer in American studies at the University of Siegen in Germany.*
-
-**Works Cited**  
-• Stanley Cavell, *The New Yet Unapproachable America: Lectures after Emerson after Wittgenstein*. Living Batch Press, 1989.  
-• Ralph Waldo Emerson, *Collected Works of Ralph Waldo Emerson Vols. II and III*. eds. Joseph Slater, Alfred Ferguson, and Jean Ferguson Carr. Harvard University Press, 1979, 1983; *Complete Works of Ralph Waldo Emerson Vols. VIII and XII*. Houghton, Mifflin & Co., 1904; *Journals of Ralph Waldo Emerson Vol. V*. ed. Merton M. Sealts Jr., Harvard University Press, 1965.  
-• Immanuel Kant, *Groundwork of the Metaphysics of Morals*. trans. and ed. Mary Gregor. Cambridge University Press, 1997.  
-• Toni Morrison, *Song of Solomon*. Plume, 1977.  
-• Paul Tillich, *The Courage to Be*. University of Chicago Press, 1952; â€˜The Right to Hopeâ€™ *University of Chicago Magazine*. Nov. 1965; *Systematic Theology Vol I*: University of Chicago Press, 1951.
