@@ -6,7 +6,7 @@ toc: true
 comments: true
 ---
 
-[​[Emerson - Philosopher or Poet?::wrap]]
+[[Emerson - Philosopher or Poet?::wrap]]
  
  ---
 
@@ -15,17 +15,17 @@ comments: true
 - Emerson as a philosopher short circuits his aims to awaken his readers from intellectual, emotional and spiritual torpor.
 - Emerson declares philosophy inferior to literature: 
 
-[​[“I think that philosophy is still rude and elementary. It will one day be taught by poets. The poet is in the natural attitude; he is believing; the philosopher, after some struggle, having only reasons for believing.” (*Complete Works* XII p14) Emerson prefers inspiration to analysis: “The poet sees wholes and avoids analysis; the metaphysician, dealing… with the mathematics of the mind, puts himself out of the way of inspiration; loses that which is the miracle and creates the worship.”::wrap]]
+[[“I think that philosophy is still rude and elementary. It will one day be taught by poets. The poet is in the natural attitude; he is believing; the philosopher, after some struggle, having only reasons for believing.” (*Complete Works* XII p14) Emerson prefers inspiration to analysis: “The poet sees wholes and avoids analysis; the metaphysician, dealing… with the mathematics of the mind, puts himself out of the way of inspiration; loses that which is the miracle and creates the worship.”::wrap]]
 
 
  While philosophy trades in ideas which language can capture,  
  
- [​[​Emerson attempts to express something beyond concepts and words; so he calls language “fossil poetry”::highlight]] (*Collected Works* III p13), 
+ [[Emerson attempts to express something beyond concepts and words; so he calls language “fossil poetry”::highlight]] (*Collected Works* III p13), 
  
  -  Emerson considers poetry's essential task – *ascension*
    
 
-[​[The passage of the soul into higher forms::lmn-transclude]]
+[[The passage of the soul into higher forms::rmn]]
 
 Emerson sees fogginess as a necessary by-product of attempting to convey the ineffable: “The aim of the author is not to tell the truth – that he cannot do, but to suggest it. He has only approximated it himself, & hence his cumbrous embarrassed speech: he uses many words, hoping that one, if not another, will bring you as near to the fact as he is.” Because of language’s limits, Emerson explains, “There are many things that refuse to be recorded – perhaps the larger half. The unsaid part is the best of every discourse.” (*Journals* V p51)
 
