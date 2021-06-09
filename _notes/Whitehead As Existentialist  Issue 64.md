@@ -4,9 +4,9 @@ tags: philosophy,economics
 season: summer
 ---
 
--  Creator of the [​[​ProcessPhilosophy\|Philosophy of Organism]]
--  [​[ **Speculative philosophy** is the endeavor to frame a *coherent, logical, necessary system* of general ideas in terms of which every element of our experience can be interpreted.::wrap]] 
--  [​[“Nothing can be omitted, experience drunk and experience sober, experience sleeping and experience waking, experience drowsy and experience wide-awake, experience self-conscious and experience self-forgetful, experience intellectual and experience physical, experience religious and experience sceptical, experience anxious and experience care-free, experience anticipatory and experience retrospective, experience happy and experience grieving, experience dominated by emotion and experience under self-restraint, experience in the light and experience in the dark, experience normal and experience abnormal.”::srs]] Experience from Chapter XV of _Adventures of Ideas_:
+-  Creator of the [[ProcessPhilosophy\|Philosophy of Organism]]
+-  [[ **Speculative philosophy** is the endeavor to frame a *coherent, logical, necessary system* of general ideas in terms of which every element of our experience can be interpreted.::wrap]] 
+-  [[“Nothing can be omitted, experience drunk and experience sober, experience sleeping and experience waking, experience drowsy and experience wide-awake, experience self-conscious and experience self-forgetful, experience intellectual and experience physical, experience religious and experience sceptical, experience anxious and experience care-free, experience anticipatory and experience retrospective, experience happy and experience grieving, experience dominated by emotion and experience under self-restraint, experience in the light and experience in the dark, experience normal and experience abnormal.”::srs]] Experience from Chapter XV of _Adventures of Ideas_:
 
 > 
 Even the words “experience drunk and experience sober” make us recognise that Whitehead is thinking in the same categories as Kierkegaard and Sartre: _everyday experience_, not philosophical abstractions. In fact, in _Science and the Modern World_ he says “Philosophy is the critic of abstractions.”
