@@ -1,29 +1,9 @@
-Why Marx Was Right by Terry Eagleton  Issue 96
-
 ---
-created: 2021-04-22T18:28:15 (UTC +05:30)
-tags: [philosophy]
-source: https://philosophynow.org/issues/96/Why_Marx_Was_Right_by_Terry_Eagleton
-author: 
+title: "Why Marx Was Right"
+tags: philosophy,economics
+season: summer
 ---
 
-# Why Marx Was Right by Terry Eagleton | Issue 96 | Philosophy Now
-
-> ## Excerpt
-> Roger Caldwell is unconvinced by Terry Eagleton’s loyal support for Marx.
-
----
-![welcome covers](../_resources/ca604aebfc05431f830d9ab0c4492af6.png)
-
-Your complimentary articles
-
-You’ve read **one** of your four complimentary articles for this month.
-
-You can read four articles free per month. To have complete access to the thousands of philosophy articles on this site, please
-
-##### Books
-
-### **Roger Caldwell** is unconvinced by Terry Eagleton’s loyal support for Marx.
 
 When British literary theorist Professor Terry Eagleton’s *Criticism and Ideology* appeared in 1976, the intellectual scene in Europe was dominated by the New Left, and Marx was seen as the indisputable reference-point. In France the likes of Sartre and Lévi-Strauss had declared themselves Marxists, and Althusser had developed his own brand of structural Marxism. Figures like Benjamin and Brecht, Lukács and Adorno, with their varying and sometimes esoteric takes on Marxism, were required reading in continental philosophy. The memories and hopes of 1968 had not yet been extinguished, and the New (or by now New*ish*) Left was triumphant, confident that it had, as Eagleton puts it, ‘History in its pocket’.
 

@@ -1,34 +1,14 @@
-Whitehead As Existentialist  Issue 64
-
 ---
-created: 2021-04-21T23:12:44 (UTC +05:30)
-tags: [philosophy]
-source: https://philosophynow.org/issues/64/Whitehead_As_Existentialist
-author: 
+title: "Whitehead As Existentialist"
+tags: philosophy,economics
+season: summer
 ---
 
-# Whitehead As Existentialist | Issue 64 | Philosophy Now
+-  Creator of the [​[​ProcessPhilosophy\|Philosophy of Organism]]
+-  [​[ **Speculative philosophy** is the endeavor to frame a *coherent, logical, necessary system* of general ideas in terms of which every element of our experience can be interpreted.::wrap]] 
+-  [​[“Nothing can be omitted, experience drunk and experience sober, experience sleeping and experience waking, experience drowsy and experience wide-awake, experience self-conscious and experience self-forgetful, experience intellectual and experience physical, experience religious and experience sceptical, experience anxious and experience care-free, experience anticipatory and experience retrospective, experience happy and experience grieving, experience dominated by emotion and experience under self-restraint, experience in the light and experience in the dark, experience normal and experience abnormal.”::srs]] Experience from Chapter XV of _Adventures of Ideas_:
 
-> ## Excerpt
-> Colin Wilson pays attention to Whitehead’s awareness of meaning.
-
----
-![welcome covers](../_resources/ec38b99cb041481d9dcda7c73c2dd853.png)
-
-Your complimentary articles
-
-You’ve read **all** of your four complimentary articles for this month.
-
-You can read four articles free per month. To have complete access to the thousands of philosophy articles on this site, please
-
-##### Articles
-
-### **Colin Wilson** pays attention to Whitehead’s awareness of meaning.
-
-The title sounds almost self-contradictory. What has the creator of the Philosophy of Organism in common with Kierkegaard, Sartre or Heidegger? The answer is: more than at first appears. “Speculative philosophy,” says Whitehead at the beginning of his book _Process and Reality_, “is the endeavor to frame a coherent, logical, necessary system of general ideas in terms of which every element of our experience can be interpreted.” And what does he understand by ‘experience’? The answer can be found in Chapter XV of _Adventures of Ideas_:
-
-> “Nothing can be omitted, experience drunk and experience sober, experience sleeping and experience waking, experience drowsy and experience wide-awake, experience self-conscious and experience self-forgetful, experience intellectual and experience physical, experience religious and experience sceptical, experience anxious and experience care-free, experience anticipatory and experience retrospective, experience happy and experience grieving, experience dominated by emotion and experience under self-restraint, experience in the light and experience in the dark, experience normal and experience abnormal.”
-
+> 
 Even the words “experience drunk and experience sober” make us recognise that Whitehead is thinking in the same categories as Kierkegaard and Sartre: _everyday experience_, not philosophical abstractions. In fact, in _Science and the Modern World_ he says “Philosophy is the critic of abstractions.”
 
 Whitehead began his career as a mathematician, and it is to this period that his _Mathematical Concepts of the Material World_ (1905) belongs. These years culminated in the three volumes of the _Principia Mathematica_ (1910, 1912, 1913) co-authored with Bertrand Russell. This was a heroic attempt to reduce the principles of mathematics to logic, and, in a sense, to create a foundation-stone for all scientific knowledge. However, it was subsequently undermined by Kurt Gödel’s discovery in 1930 of the Incompleteness Theorem, to the effect that no set of postulates can ever be comprehensive, but will always give rise to further questions that cannot be answered on the basis of the postulates. I would suspect that there is a similar Incompleteness Theorem in philosophy.
